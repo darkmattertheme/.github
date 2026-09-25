@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darkmattertheme/darkmatter/stargazers"><img src="https://img.shields.io/github/stars/darkmattertheme?colorA=222222&colorB=e78a53&style=for-the-badge&logo=github&logoColor=c1c1c1"></a>
+  <!-- <a href="https://github.com/darkmattertheme/darkmatter/stargazers"><img src="https://img.shields.io/github/stars/darkmattertheme?colorA=222222&colorB=e78a53&style=for-the-badge&logo=github&logoColor=c1c1c1"></a> -->
   <a href="https://darkmattertheme.com"><img src="https://img.shields.io/badge/darkmattertheme.com-fbcb97?style=for-the-badge&labelColor=222222&label=website" alt="Website"></a>
   <a href="https://github.com/darkmattertheme/darkmatter/issues"><img src="https://img.shields.io/github/issues/darkmattertheme/darkmatter?colorA=222222&colorB=5f8787&style=for-the-badge&logo=github&logoColor=c1c1c1"></a>
 </p>
