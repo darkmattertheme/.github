@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Request a port for another app
+    url: https://github.com/darkmattertheme/darkmatter/issues/new?template=port-request.yml
+    about: Port requests and reviews live in the core repo.
+  - name: The website
+    url: https://github.com/darkmattertheme/web/issues
+    about: Problems with darkmattertheme.com go to darkmattertheme/web.

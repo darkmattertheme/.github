@@ -1,0 +1,27 @@
+name: Bug
+description: Something in this port looks wrong or doesn't work.
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: What's wrong?
+      description: What you see, and what you expected to see instead.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Screenshots
+      description: Drag images in here. For a color problem, a screenshot is usually the quickest way to show it.
+  - type: input
+    attributes:
+      label: App version
+      placeholder: "1.2.3"
+  - type: input
+    attributes:
+      label: Operating system
+      placeholder: macOS 15, Arch Linux, Windows 11
+  - type: textarea
+    attributes:
+      label: How did you install the theme?
+      description: And the relevant part of your config, if there is one.
+      render: text
